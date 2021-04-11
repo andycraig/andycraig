@@ -5,6 +5,7 @@ I'm a Data Scientist working in Tokyo.
 Open source projects I've contributed to:
 - [R extension for Visual Studio Code](https://github.com/Ikuyadeu/vscode-R)
 - [R language server](https://github.com/REditorSupport/languageserver)
+- [Jupyter Extension for Visual Studio Code](https://github.com/Microsoft/vscode-jupyter)
 
 A couple of my toy projects:
 - R with `(x) => x + 1` anonymous functions: https://github.com/andycraig/r-anonymous-functions/
